@@ -1,6 +1,8 @@
 # Gradient descent algorithm visualization
 
-**Work in progress**
+**Work in progress...**
+
+![image](https://github.com/user-attachments/assets/c374c3b7-d8f2-493c-9ddf-5dc0de837a3a)
 
 ## Build
 
